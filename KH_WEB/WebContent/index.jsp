@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h2> KH_WEB 프로젝트 </h2>
+	조원 1이 작성한 코드
 </body>
 </html>
